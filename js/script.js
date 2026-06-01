@@ -8,4 +8,3 @@ function copyEmail() {
 
     alert("E-mail copied!");
 }
-
